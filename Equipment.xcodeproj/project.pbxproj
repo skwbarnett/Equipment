@@ -504,8 +504,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Tebon Securities Co., Ltd. Union Committee";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Tebon Securities Co., Ltd. Union Committee";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = UU9933D8RM;
 				INFOPLIST_FILE = Equipment/Info.plist;
